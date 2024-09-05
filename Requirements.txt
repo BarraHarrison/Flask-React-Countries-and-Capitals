@@ -1,0 +1,9 @@
+# an API endpoint to get all countries
+# an endpoint to get all countries and capitals
+# an endpoint to get a specific country and show its capital
+
+# Stretch Goals
+# Adding button navigation from html page to others using href
+# manipulate the data prior to showing it in the html template (Start small,
+# capitalize every letter in a country name, maybe send the first two letters,
+#  etc etc, then try more complicated Sting manipulation in the backend)
